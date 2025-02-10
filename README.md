@@ -1,1 +1,3 @@
-# DeepLearning
+## :watermelon: 深度学习笔记[^1]
+
+[^1]: 教程来源: [动手学深度学习](https://zh.d2l.ai/)
