@@ -1,4 +1,4 @@
-## :watermelon: d2l
+## :watermelon: 深度学习笔记
 
 ### 安装
 
