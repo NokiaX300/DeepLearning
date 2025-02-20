@@ -18,9 +18,9 @@
 - 3.1 [线性回归](./Week02/Day2.ipynb)
 - 3.2 [线性回归的从零开始实现](./Week02/Day3.ipynb)
 - 3.3 [线性回归的简洁实现](./Week02/Day4.ipynb)
-- 3.4 softmax回归
-- 3.5 图像分类数据集
-- 3.6 softmax回归的从零开始实现
+- 3.4 [softmax回归](./Week02/Day5.ipynb)
+- 3.5 [图像分类数据集](./Week02/Day6.ipynb)
+- 3.6 [softmax回归的从零开始实现](./Week02/Day7.ipynb)
 - 3.7 softmax回归的简洁实现
 
 ### 4. 多层感知机
